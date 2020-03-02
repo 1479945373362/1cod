@@ -1,0 +1,9 @@
+D:\STS Workspace\CompanyClient\src\main\java\com\example\companyclient\dto\ErrorDto.java
+D:\STS Workspace\CompanyClient\src\main\java\com\example\companyclient\entity\Client.java
+D:\STS Workspace\CompanyClient\src\main\java\com\example\companyclient\entity\Company.java
+D:\STS Workspace\CompanyClient\src\main\java\com\example\companyclient\service\CommonInterface.java
+D:\STS Workspace\CompanyClient\src\main\java\com\example\companyclient\repository\CompanyRepository.java
+D:\STS Workspace\CompanyClient\src\main\java\com\example\companyclient\CompanyClientApplication.java
+D:\STS Workspace\CompanyClient\src\main\java\com\example\companyclient\service\serviceimpl\CommonServiceImpl.java
+D:\STS Workspace\CompanyClient\src\main\java\com\example\companyclient\controller\CompanyClientController.java
+D:\STS Workspace\CompanyClient\src\main\java\com\example\companyclient\repository\ClientRepository.java

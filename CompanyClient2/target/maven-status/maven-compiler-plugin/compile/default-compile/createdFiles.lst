@@ -1,0 +1,9 @@
+com\example\companyclient\repository\ClientRepository.class
+com\example\companyclient\service\CommonInterface.class
+com\example\companyclient\entity\Client.class
+com\example\companyclient\service\serviceimpl\CommonServiceImpl.class
+com\example\companyclient\repository\CompanyRepository.class
+com\example\companyclient\dto\ErrorDto.class
+com\example\companyclient\entity\Company.class
+com\example\companyclient\CompanyClientApplication.class
+com\example\companyclient\controller\CompanyClientController.class
